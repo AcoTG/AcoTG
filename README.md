@@ -1,7 +1,7 @@
 ### Olá!!!Eu sou o Acotg 👋
 Pode me chamar de **Jao**!
 - 🔭 Hoje iniciando na área de tecnologia
-- 🌱 Estudando CSS, HTML e JAVA
+- 🌱 Estudando CSS, HTML e C#
 - 📫 Contate-me no email: Joaocode_@hotmail.com
 - ⚡ Nerd
 ##
@@ -15,7 +15,7 @@ Pode me chamar de **Jao**!
 <div style="display: inline_block"><br>
   <img align="center" alt="Jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jao-JAVA" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="center" alt="Jao-JAVA" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
 
 ##
